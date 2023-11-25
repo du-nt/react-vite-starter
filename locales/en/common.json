@@ -1,0 +1,33 @@
+{
+  "language": "Language",
+  "english": "English",
+  "japanese": "Japanese",
+  "loginSuccess": "Login successfully",
+  "datePickerPlaceholder": "Select date",
+  "timePickerPlaceholder": "Select time",
+  "toastError": {
+    "U100049": "Example error message",
+    "U100050": "Example error message {{values.email}}"
+  },
+  "validationError": {
+    "U10004-email,password": "Email or password incorrect",
+    "U100042-email,password": "Email or password incorrect {{values.email}}",
+    "U100043-email,password": "Email or password incorrect {{values.password}}",
+    "U100044-email,password": "Email or password incorrect {{values.email}} {{values.password}}",
+    "U100045-email": "Email or password incorrect",
+    "U100046-email": "Email or password incorrect {{values.email}}",
+    "U100048-email": "Email or password incorrect {{values.password}}"
+  },
+  "sidebar": {
+    "home": "Home",
+    "library": "Library",
+    "history": "History",
+    "music": "Music"
+  },
+  "navigationBar": {
+    "home": "Home",
+    "library": "Library",
+    "explore": "Explore",
+    "music": "Music"
+  }
+}
