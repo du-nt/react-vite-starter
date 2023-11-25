@@ -92,13 +92,11 @@ Start the server
   yarn dev
 ```
 
-Live demo
+Live demo: https://react-vite-starter-two.vercel.app/
 
 ```bash
-  https://react-vite-starter-two.vercel.app/
-
-  Account:
-  Password:
+  Account: mahoagray@gmail.com
+  Password: 0khongbiet
 ```
 
 # Directory structure
