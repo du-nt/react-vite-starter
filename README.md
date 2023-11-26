@@ -15,7 +15,7 @@ Template for Vite, React + Tailwindcss + TypeScript projects with some tools pre
 - [React Router 6](https://reactrouter.com)
 - [Tailwindcss 3](https://tailwindcss.com/)
 - [TypeScript 4.9.5](https://www.typescriptlang.org/)
-- [Vite 4](https://vitejs.dev/)
+- [Vite 5](https://vitejs.dev/)
 - [Material UI 5.14](https://mui.com/material-ui/getting-started/)
 - [React Query 4.35](https://tanstack.com/query/v4/docs/react/overview/)
 - [React Hook Form 7.45](https://react-hook-form.com/get-started/)
